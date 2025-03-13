@@ -14,7 +14,7 @@ import request from 'supertest'
    })
  
    it('should be able to create a check-in', async () => {
-     const { token } = await createAndAuthenticateUser(app)
+     const { token } = await createAndAuthenticateUser(app, true)
  
      const gym = await prisma.gym.create({
        data: {
