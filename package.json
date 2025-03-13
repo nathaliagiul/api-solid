@@ -41,6 +41,7 @@
     "vitest": "3.0.8"
   },
   "dependencies": {
+    "@fastify/cookie": "11.0.2",
     "@fastify/jwt": "9.0.4",
     "@prisma/client": "6.4.1",
     "api-solid": "file:",
