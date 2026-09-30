@@ -1,5 +1,5 @@
 {
-  "name": "api-solid",
+  "name": "gym-checkin-api",
   "version": "1.0.0",
   "description": "API REST no estilo GymPass com Node.js, Fastify, Prisma e PostgreSQL",
   "main": "index.js",

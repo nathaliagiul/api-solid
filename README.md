@@ -1,9 +1,9 @@
-# API Solid — GymPass style
+# Gym Check-in API — GymPass style
 
 API REST de check-in em academias, no estilo GymPass, construída com Node.js e TypeScript seguindo princípios SOLID.
 
-![Unit Tests](https://github.com/nathaliagiul/api-solid/actions/workflows/run-unit-tests.yml/badge.svg)
-![E2E Tests](https://github.com/nathaliagiul/api-solid/actions/workflows/run-e2e-tests.yml/badge.svg)
+![Unit Tests](https://github.com/nathaliagiul/gym-checkin-api/actions/workflows/run-unit-tests.yml/badge.svg)
+![E2E Tests](https://github.com/nathaliagiul/gym-checkin-api/actions/workflows/run-e2e-tests.yml/badge.svg)
 
 ## Stack
 
