@@ -63,6 +63,4 @@ export async function authenticate(
 
     throw err
   }
-
-  return reply.status(200).send()
 }
