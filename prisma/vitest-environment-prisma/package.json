@@ -5,8 +5,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "vitest-environment-prisma": "file:"
-  }
+  "description": ""
 }

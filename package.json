@@ -1,7 +1,7 @@
 {
   "name": "api-solid",
   "version": "1.0.0",
-  "description": "GymPass style app.",
+  "description": "API REST no estilo GymPass com Node.js, Fastify, Prisma e PostgreSQL",
   "main": "index.js",
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
@@ -17,7 +17,7 @@
     "test:ui": "vitest --ui"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nathalia Pereira Lopes",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "9.22.0",
@@ -44,7 +44,6 @@
     "@fastify/cookie": "11.0.2",
     "@fastify/jwt": "9.0.4",
     "@prisma/client": "6.4.1",
-    "api-solid": "file:",
     "bcryptjs": "3.0.2",
     "dotenv": "16.4.7",
     "fastify": "5.2.1",
